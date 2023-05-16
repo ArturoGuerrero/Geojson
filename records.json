@@ -1,0 +1,797 @@
+﻿[
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 2075,
+      "start": 16,
+      "end": 1227,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Tue May 09 2023"
+        ]
+      },
+      "elementId": "2075",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1227"
+    },
+    "m": {
+      "identity": 1227,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "descriptive_card": "",
+        "education_place": "",
+        "img": "https://www.freeiconspng.com/uploads/blank-face-person-icon-7.png",
+        "birthdate": "",
+        "bibliographical_references": "",
+        "author": "Patricia Díaz",
+        "deathdate": "",
+        "title": "",
+        "activity_institution": "Universidad Central",
+        "name_variations": "",
+        "activity_start_date": "",
+        "main_activity": "Full Professor (Hebrew)",
+        "birthplace": "",
+        "original_name": "",
+        "activity_place": "",
+        "name": "Mariano Gaspar Merino",
+        "activity_end_date": "",
+        "secondary_activity": "",
+        "deathplace": "",
+        "education_institution": ""
+      },
+      "elementId": "1227"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 2029,
+      "start": 16,
+      "end": 1223,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Wed Apr 12 2023"
+        ]
+      },
+      "elementId": "2029",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1223"
+    },
+    "m": {
+      "identity": 1223,
+      "labels": [
+        "Manuscript"
+      ],
+      "properties": {
+        "textual_composition": "",
+        "illustrations": "",
+        "descriptive_card": "",
+        "colophon": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fred%2Fbook-512.png&f=1&nofb=1",
+        "title_manuscript": "",
+        "textual_interval": "",
+        "writing_support": "",
+        "language": "",
+        "type": "From the original",
+        "link_library_catalogue": "",
+        "former_shelfmark": "",
+        "institution": "Biblioteca Apostolica Vaticana",
+        "quranic_reading": "",
+        "material_composition": "",
+        "title_position": "",
+        "colophon_position": "",
+        "attributed_title": "",
+        "current_location": "Vatican City",
+        "bibliographical_references": "",
+        "explicit_position": "",
+        "author": "Kasia Starczewska",
+        "preservation_state": "",
+        "other_places": "",
+        "collection": "",
+        "total_pages": "",
+        "released_date": "",
+        "script": "",
+        "other_dates": "",
+        "explicit": "",
+        "typology": [
+          "Qur'an",
+          "Translation"
+        ],
+        "marginalia": "",
+        "quranic_structure_decoration": "",
+        "released_place": "",
+        "incipit": "",
+        "present_shelfmark": "Vat. Ebr. 357",
+        "incipit_position": "",
+        "general_decoration": ""
+      },
+      "elementId": "1223"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 1993,
+      "start": 16,
+      "end": 1192,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Wed Feb 08 2023"
+        ]
+      },
+      "elementId": "1993",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1192"
+    },
+    "m": {
+      "identity": 1192,
+      "labels": [
+        "Manuscript"
+      ],
+      "properties": {
+        "textual_composition": "Multiple text",
+        "illustrations": "",
+        "descriptive_card": "[Içe de Gabir, Este sumario es compuesto de los principales mandamientos y bedamientos de nuestra santa ley y çunna]
+",
+        "colophon": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fred%2Fbook-512.png&f=1&nofb=1",
+        "title_manuscript": "La regla de la lienda del Alqorán",
+        "textual_interval": "119-122r",
+        "writing_support": "Paper",
+        "lon": "-3.63",
+        "language": [
+          "Arabic",
+          "Romance"
+        ],
+        "type": "From the original",
+        "link_library_catalogue": "http://simurg.csic.es/view/285803",
+        "former_shelfmark": "Junta 60",
+        "institution": "Biblioteca Tomás Navarro Tomás (BTNT-CSIC)",
+        "quranic_reading": "",
+        "material_composition": "Composite",
+        "title_position": "119v",
+        "colophon_position": "",
+        "attributed_title": "Miscelánea",
+        "lat": "40.44",
+        "current_location": "Madrid",
+        "bibliographical_references": "https://www.zotero.org/groups/2447618/euqu_european_quran/tags/BTNT%20RESC%2F60/library",
+        "explicit_position": "",
+        "author": "Juan Pablo Arias,Teresa Madrid,Isabel Boyano",
+        "preservation_state": "",
+        "other_places": "",
+        "collection": "Fondo antiguo TN reservado",
+        "total_pages": "185 fols",
+        "released_date": "",
+        "script": [
+          "Arabic",
+          "Latin"
+        ],
+        "other_dates": "",
+        "explicit": "",
+        "typology": "Others",
+        "marginalia": "",
+        "quranic_structure_decoration": "",
+        "released_place": "Almonacid de la Sierra",
+        "incipit": "",
+        "present_shelfmark": "RESC/60",
+        "incipit_position": "",
+        "general_decoration": ""
+      },
+      "elementId": "1192"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 1992,
+      "start": 16,
+      "end": 1191,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Wed Feb 08 2023"
+        ]
+      },
+      "elementId": "1992",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1191"
+    },
+    "m": {
+      "identity": 1191,
+      "labels": [
+        "Manuscript"
+      ],
+      "properties": {
+        "textual_composition": "Multiple text",
+        "descriptive_card": "260 x 190 mm 
+
+",
+        "illustrations": "",
+        "colophon": "",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fred%2Fbook-512.png&f=1&nofb=1",
+        "title_manuscript": "Contradición y deferencia que ay entre Warçi y Qālūn",
+        "textual_interval": "1-157r",
+        "writing_support": "Paper",
+        "lon": "-3.63",
+        "language": [
+          "Arabic",
+          "Romance"
+        ],
+        "type": "From images",
+        "link_library_catalogue": "https://csic-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=34CSIC_ALMA_DS21100303120004201&context=L&vid=34CSIC_VU1&lang=es_ES&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,RESC%2F12",
+        "former_shelfmark": "Junta 12",
+        "institution": "Biblioteca Tomás Navarro Tomás (BTNT-CSIC)",
+        "quranic_reading": "Warš",
+        "material_composition": "Homogeneous",
+        "title_position": "fol 157r",
+        "colophon_position": "",
+        "attributed_title": "",
+        "lat": "40.44",
+        "current_location": "Madrid",
+        "bibliographical_references": "https://www.zotero.org/groups/2447618/euqu_european_quran/tags/BTNT%20RESC%2F12/library",
+        "explicit_position": "fol 157r",
+        "author": "Juan Pablo Arias,Isabel Boyano,Teresa Madrid",
+        "preservation_state": "Complete",
+        "change": "bib: Wed Feb 08 2023 arturo.guerrero@cchs.csic.es, li: Wed Feb 08 2023 arturo.guerrero@cchs.csic.es, des: Wed Feb 08 2023 arturo.guerrero@cchs.csic.es, ",
+        "other_places": "",
+        "collection": "Fondo antiguo TN reservado",
+        "total_pages": "233 fols",
+        "released_date": "",
+        "script": "Arabic",
+        "other_dates": "1533",
+        "explicit": "Acábaxe la contradición y deferencia que hay entre Guarx y Calún",
+        "typology": "Others",
+        "marginalia": "Yes",
+        "quranic_structure_decoration": "Yes",
+        "released_place": "Almonacid de la Sierra",
+        "incipit": "Dixo Abu Omar y Otsmán ibno Said, fijo de Otsmán el Mocrí…",
+        "present_shelfmark": "RESC/12",
+        "incipit_position": "fol 0v",
+        "general_decoration": ""
+      },
+      "elementId": "1191"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 1740,
+      "start": 16,
+      "end": 1062,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Mon Oct 24 2022"
+        ]
+      },
+      "elementId": "1740",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1062"
+    },
+    "m": {
+      "identity": 1062,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "descriptive_card": "",
+        "education_place": "",
+        "img": "https://www.freeiconspng.com/uploads/blank-face-person-icon-7.png",
+        "birthdate": "",
+        "bibliographical_references": "",
+        "author": "Juan Pablo Arias",
+        "deathdate": "",
+        "title": "",
+        "name_variations": "",
+        "activity_institution": "",
+        "activity_start_date": "",
+        "main_activity": "",
+        "birthplace": "",
+        "original_name": "",
+        "activity_place": "",
+        "name": "Azūz bn Muḥammad al-Dukkālī",
+        "activity_end_date": "",
+        "secondary_activity": "",
+        "deathplace": "",
+        "education_institution": ""
+      },
+      "elementId": "1062"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 1739,
+      "start": 16,
+      "end": 1061,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Mon Oct 24 2022"
+        ]
+      },
+      "elementId": "1739",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1061"
+    },
+    "m": {
+      "identity": 1061,
+      "labels": [
+        "Manuscript"
+      ],
+      "properties": {
+        "textual_composition": "Multiple text",
+        "illustrations": "No",
+        "descriptive_card": "The five last hizb (56-60) of a Magribi Qur'an
+",
+        "colophon": "في 13 شعبان الابرك انتهى بحمد  الله الله تعلى على يد عبيد ربه تعالى عزوز بن محمد الدكالي ؟؟ اللهم اغفر له ولوالديه والاشياخ اجمعين والمسلمين والمسلمات الاحياء منهم والاموات ... وءاخر دعوتنا ان الحمد لله رب العالمين انتهى في شعبان الابرك13 من عام 1310",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fred%2Fbook-512.png&f=1&nofb=1",
+        "title_manuscript": "",
+        "writing_support": "Paper",
+        "textual_interval": "1-22",
+        "lon": 2.07,
+        "language": "Arabic",
+        "type": "From the original",
+        "link_library_catalogue": "",
+        "former_shelfmark": "9-I-12º",
+        "institution": "Biblioteca de Cataluña",
+        "quranic_reading": "Warš",
+        "material_composition": "Homogeneous",
+        "title_position": "",
+        "colophon_position": "22v",
+        "attributed_title": "",
+        "lat": 41.39,
+        "current_location": "Barcelona",
+        "bibliographical_references": "",
+        "explicit_position": "22v",
+        "author": "Juan Pablo Arias",
+        "preservation_state": [
+          "Acephalous",
+          "Lacunous"
+        ],
+        "change": "tp: Mon Jan 30 2023 arturo.guerrero@cchs.csic.es, ws: Mon Mar 27 2023 jparias@uma.es, des: Mon Mar 27 2023 jparias@uma.es, des: Mon Mar 27 2023 jparias@uma.es, ",
+        "other_places": "",
+        "total_pages": "24 fols",
+        "collection": "",
+        "released_date": "1893",
+        "script": "Arabic",
+        "other_dates": "",
+        "explicit": "114:6",
+        "typology": "Qur'an",
+        "marginalia": "Yes",
+        "quranic_structure_decoration": "No",
+        "released_place": "",
+        "incipit": "62:1",
+        "present_shelfmark": "Ms. 1121",
+        "incipit_position": "1r",
+        "general_decoration": "No"
+      },
+      "elementId": "1061"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 1736,
+      "start": 16,
+      "end": 1060,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Mon Oct 24 2022"
+        ]
+      },
+      "elementId": "1736",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1060"
+    },
+    "m": {
+      "identity": 1060,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "descriptive_card": "",
+        "education_place": "",
+        "img": "https://www.freeiconspng.com/uploads/blank-face-person-icon-7.png",
+        "birthdate": "",
+        "bibliographical_references": "",
+        "author": "Juan Pablo Arias",
+        "deathdate": "",
+        "title": "",
+        "name_variations": "",
+        "activity_institution": "",
+        "activity_start_date": "",
+        "main_activity": "",
+        "birthplace": "",
+        "original_name": "",
+        "activity_place": "",
+        "name": "Juan Prim i Prats",
+        "activity_end_date": "",
+        "secondary_activity": "",
+        "deathplace": "",
+        "education_institution": ""
+      },
+      "elementId": "1060"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 1735,
+      "start": 16,
+      "end": 1059,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Mon Oct 24 2022"
+        ]
+      },
+      "elementId": "1735",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1059"
+    },
+    "m": {
+      "identity": 1059,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "descriptive_card": "",
+        "education_place": "",
+        "img": "https://www.freeiconspng.com/uploads/blank-face-person-icon-7.png",
+        "birthdate": "",
+        "bibliographical_references": "",
+        "author": "Juan Pablo Arias",
+        "deathdate": "",
+        "title": "",
+        "name_variations": "",
+        "activity_institution": "",
+        "activity_start_date": "",
+        "main_activity": "",
+        "birthplace": "",
+        "original_name": "",
+        "activity_place": "",
+        "name": "Pere Marés i Oriol",
+        "activity_end_date": "",
+        "secondary_activity": "",
+        "deathplace": "",
+        "education_institution": ""
+      },
+      "elementId": "1059"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 1734,
+      "start": 16,
+      "end": 1058,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Mon Oct 24 2022"
+        ]
+      },
+      "elementId": "1734",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1058"
+    },
+    "m": {
+      "identity": 1058,
+      "labels": [
+        "Manuscript"
+      ],
+      "properties": {
+        "textual_composition": "Single text",
+        "illustrations": "No",
+        "descriptive_card": "excerpt from sura10.",
+        "colophon": "No",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fred%2Fbook-512.png&f=1&nofb=1",
+        "title_manuscript": "",
+        "textual_interval": "",
+        "writing_support": "",
+        "lon": 2.07,
+        "language": "Arabic",
+        "type": "From images",
+        "link_library_catalogue": "",
+        "former_shelfmark": "",
+        "institution": "Biblioteca de Cataluña",
+        "quranic_reading": "",
+        "material_composition": "Homogeneous",
+        "title_position": "",
+        "colophon_position": "",
+        "attributed_title": "",
+        "lat": 41.39,
+        "current_location": "Barcelona",
+        "bibliographical_references": "",
+        "explicit_position": "6v",
+        "author": "Juan Pablo Arias",
+        "preservation_state": [
+          "Acephalous",
+          "Apodous"
+        ],
+        "change": "tp: Mon Jan 30 2023 arturo.guerrero@cchs.csic.es, ",
+        "other_places": "",
+        "total_pages": "6 fols",
+        "collection": "",
+        "released_date": "",
+        "script": "Arabic",
+        "other_dates": "",
+        "explicit": "10:61",
+        "typology": "Qur'an",
+        "marginalia": "No",
+        "quranic_structure_decoration": "Yes",
+        "released_place": "",
+        "incipit": "10:19",
+        "present_shelfmark": "9304-1",
+        "incipit_position": "1r",
+        "general_decoration": "No"
+      },
+      "elementId": "1058"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 1732,
+      "start": 16,
+      "end": 1057,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Mon Oct 24 2022"
+        ]
+      },
+      "elementId": "1732",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1057"
+    },
+    "m": {
+      "identity": 1057,
+      "labels": [
+        "Manuscript"
+      ],
+      "properties": {
+        "textual_composition": "Single text",
+        "illustrations": "No",
+        "descriptive_card": "First half of a Maghribi Qur'an (ca. 17th)
+",
+        "colophon": "No",
+        "img": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconsdb.com%2Ficons%2Fdownload%2Fred%2Fbook-512.png&f=1&nofb=1",
+        "title_manuscript": "",
+        "writing_support": "Paper",
+        "textual_interval": "",
+        "lon": 2.07,
+        "language": "Arabic",
+        "type": "From the original",
+        "link_library_catalogue": "",
+        "former_shelfmark": "8-III, 2897 SE",
+        "institution": "Biblioteca de Cataluña",
+        "quranic_reading": "Warš",
+        "material_composition": "Homogeneous",
+        "title_position": "",
+        "colophon_position": "",
+        "attributed_title": "",
+        "lat": 41.39,
+        "current_location": "Barcelona",
+        "bibliographical_references": "https://www.zotero.org/groups/2447618/euqu_european_quran/tags/BCat%20867/library",
+        "explicit_position": "155v",
+        "author": "Juan Pablo Arias",
+        "preservation_state": "Complete",
+        "change": "ps: Mon Jan 30 2023 arturo.guerrero@cchs.csic.es, tp: Mon Jan 30 2023 arturo.guerrero@cchs.csic.es, ws: Mon Mar 27 2023 jparias@uma.es, bib: Mon Mar 27 2023 jparias@uma.es, des: Mon Mar 27 2023 jparias@uma.es, inc: Mon Mar 27 2023 jparias@uma.es, ",
+        "other_places": "",
+        "collection": "",
+        "total_pages": "155 fols",
+        "released_date": "",
+        "script": "Arabic",
+        "other_dates": "",
+        "explicit": "18:105",
+        "typology": "Qur'an",
+        "marginalia": "Yes",
+        "quranic_structure_decoration": "Yes",
+        "released_place": "",
+        "incipit": "1:1",
+        "present_shelfmark": "Ms. 867",
+        "incipit_position": "1v",
+        "general_decoration": "No"
+      },
+      "elementId": "1057"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "User"
+      ],
+      "properties": {
+        "datetime": "undefined,Tue May 16 2023",
+        "password": "Guer#2020",
+        "initials": "AG",
+        "name": "Arturo Guerrero",
+        "username": "arturo.guerrero@cchs.csic.es"
+      },
+      "elementId": "16"
+    },
+    "r": {
+      "identity": 1731,
+      "start": 16,
+      "end": 1056,
+      "type": "CONTRIBUTION",
+      "properties": {
+        "date": [
+          "Mon Oct 24 2022"
+        ]
+      },
+      "elementId": "1731",
+      "startNodeElementId": "16",
+      "endNodeElementId": "1056"
+    },
+    "m": {
+      "identity": 1056,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "descriptive_card": "",
+        "education_place": "",
+        "img": "https://www.freeiconspng.com/uploads/blank-face-person-icon-7.png",
+        "birthdate": "1856",
+        "bibliographical_references": "",
+        "author": "Juan Pablo Arias",
+        "change": "dd: Mon Oct 24 2022 arturo.guerrero@cchs.csic.es, ",
+        "deathdate": "1920",
+        "title": "",
+        "activity_start_date": "",
+        "name_variations": "",
+        "activity_institution": "",
+        "main_activity": "",
+        "birthplace": "",
+        "original_name": "",
+        "activity_place": "",
+        "name": "Alexandre de Riquer",
+        "activity_end_date": "",
+        "secondary_activity": "",
+        "deathplace": "",
+        "education_institution": ""
+      },
+      "elementId": "1056"
+    }
+  }
+]
